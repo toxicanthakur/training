@@ -1,0 +1,3 @@
+[submodule "Airport-management-system"]
+	path = Airport-management-system
+	url = https://github.com/toxicanthakur/Airport-management-system.git
